@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1594295355580" clover="3.2.0">
+  <project timestamp="1594295355580" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="18" coveredconditionals="17" methods="3" coveredmethods="3" elements="31" coveredelements="30" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="util.js" path="/home/varaprasadh/workspace-varaprasadh/testing/util.js">
+      <metrics statements="10" coveredstatements="10" conditionals="18" coveredconditionals="17" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="6" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="5" falsecount="1"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="4" type="cond" truecount="6" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
