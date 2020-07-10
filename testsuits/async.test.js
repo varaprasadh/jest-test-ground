@@ -1,4 +1,4 @@
-const {Server}=require("./fakeServer");
+const {Server}=require("../fakeServer");
 const fakeServer=new Server();
 
 const fs = require('fs').promises;
